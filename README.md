@@ -1,11 +1,8 @@
-### Hi there 👋
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=michalpawlowski34&theme=github_dark&show_icons=true&count_private=true" />
+ <img class="img" src="https://streak-stats.demolab.com?user=michalpawlowski34&theme=github-dark-blue" />
+</div>
 
-#### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=michalpawlowski34&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
-
-### Github Streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=michalpawlowski34&theme=dark" width="48%" >
-
-### Top Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalpawlowski34&layout=compact)
-
+<div style="display: flex; flex-direction:row; justify-items:center; align-items:center;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michalpawlowski34&layout=compact&theme=github_dark&count_private=true" />
+</div>
