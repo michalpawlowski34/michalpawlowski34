@@ -1,6 +1,6 @@
 <div align="center">
  <img width=390 src="https://streak-stats.demolab.com?user=michalpawlowski34&theme=github-dark-blue&border_radius=10" />
- <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=michalpawlowski34&count_private=true&show_icons=true&theme=github_dark&rank_icon=github&border_radius=10" alt="readme stats" />
+ <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=michalpawlowski34&count_private=true&show_icons=true&theme=github_dark&rank_icon=github&border_radius=10"/>
 </div>
 
 
